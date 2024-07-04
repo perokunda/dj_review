@@ -1,9 +1,9 @@
 # Ignore directories
 
-reviewproject/reviewproject/__pycache__
+reviewproject/reviewproject/__pycache__/
 reviewproject/reviewproject/__init__.py
 venv/
-reviewproject/reviewpost/__pycache__
+reviewproject/reviewpost/__pycache__/
 reviewproject/reviewpost/__init__.py
 
 # Ignore files
